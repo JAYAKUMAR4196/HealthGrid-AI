@@ -1,0 +1,6 @@
+{
+  "name": "HealthGrid AI — Healthcare Resilience Command",
+  "description": "AI-powered healthcare resilience platform for BRICS Smart Health & Supply Chain Resilience command centers. Predict shortages, optimize PHC networks, and automate redistribution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
